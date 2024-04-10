@@ -1,4 +1,4 @@
-# Take a look of a website: [One Website](https://6614d2e1d1f33968923b5d3d--preeminent-fenglisu-0ccafb.netlify.app/)
+# Take a look of a website: [One Website](https://preeminent-fenglisu-0ccafb.netlify.app/)
 
 # Getting Started with Create React App
 
